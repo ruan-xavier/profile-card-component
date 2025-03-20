@@ -19,8 +19,8 @@ O objetivo é criar um componente de cartão de perfil responsivo, com um design
 
 ### Links
 
-- URL da solução: [https://github.com/ruan-xavier/profile-card-component]()
-- URL do site ao vivo: [https://cartao-de-usuario.netlify.app/]()
+- URL da solução: [https://github.com/ruan-xavier/profile-card-component](https://github.com/ruan-xavier/profile-card-component)
+- URL do site ao vivo: [https://cartao-de-usuario.netlify.app/](https://cartao-de-usuario.netlify.app/)
 
 ## Meu processo
 
